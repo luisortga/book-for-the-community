@@ -1,159 +1,170 @@
 <div align="center">
 
-# 📚 Open Programming Library
+# 📚 Biblioteca de Programación
 
-### A Free Digital Library for Developers
+### Una biblioteca digital para aprender, explorar y crecer como desarrollador
 
-**Learn. Build. Explore. Share Knowledge.**
+**Aprende. Programa. Experimenta. Comparte conocimiento.**
 
-A curated collection of free programming books, software engineering resources,
-database guides, and technical documentation to support developers
-in their learning journey.
+Una colección de libros y recursos educativos sobre programación,
+bases de datos, ciencias de la computación e ingeniería de software.
 
 <br>
 
 <a href="https://mega.nz/folder/90MkVAZZ#0AAe5QxHOwqxBfNGB6q0nw">
-  <img src="https://img.shields.io/badge/EXPLORE_THE_LIBRARY-Open%20Books-00A884?style=for-the-badge&logo=mega&logoColor=white" alt="Explore the library">
+  <img src="https://img.shields.io/badge/EXPLORAR_BIBLIOTECA-Libros%20de%20programaci%C3%B3n-00A884?style=for-the-badge&logo=mega&logoColor=white" alt="Explorar biblioteca">
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Books-Free%20Access-2ea44f?style=flat-square" alt="Free access">
-<img src="https://img.shields.io/badge/Focus-Programming-blue?style=flat-square" alt="Programming">
-<img src="https://img.shields.io/badge/Topics-Software%20Engineering-purple?style=flat-square" alt="Software Engineering">
-<img src="https://img.shields.io/badge/Community-Open%20Knowledge-orange?style=flat-square" alt="Open Knowledge">
+<img src="https://img.shields.io/badge/Contenido-Educativo-blue?style=flat-square" alt="Contenido educativo">
+<img src="https://img.shields.io/badge/Temática-Programación-purple?style=flat-square" alt="Programación">
+<img src="https://img.shields.io/badge/Acceso-Recursos%20gratuitos-2ea44f?style=flat-square" alt="Recursos gratuitos">
+<img src="https://img.shields.io/badge/Objetivo-Aprendizaje-orange?style=flat-square" alt="Aprendizaje">
 
 </div>
 
 ---
 
-## 📖 About the Project
+## 📖 Sobre el proyecto
 
-**Open Programming Library** is a digital collection created to make
-programming knowledge more accessible.
+**Biblioteca de Programación** es un proyecto dedicado a recopilar y
+organizar libros y recursos educativos de informática para facilitar
+el aprendizaje y el descubrimiento de nuevos conocimientos.
 
-This repository serves as a central entry point to a collection of
-programming books and technical resources available on the internet.
+La biblioteca está pensada para estudiantes, personas que están
+comenzando a programar y desarrolladores que desean profundizar en
+diferentes tecnologías.
 
-Whether you are beginning your journey in software development,
-studying computer science, or exploring new technologies, this library
-aims to help you discover useful learning materials.
+Desde los fundamentos de la programación hasta las bases de datos y
+la ingeniería de software, cada recurso puede convertirse en una
+oportunidad para aprender algo nuevo.
 
-The goal is simple:
+> El conocimiento es una herramienta poderosa. Compartirlo nos
+> permite crecer como comunidad.
 
-> Make technical knowledge easier to discover, access, and explore.
+## 📚 Categorías de la biblioteca
 
-## 📚 Library Collection
+La colección reúne materiales de distintas áreas del desarrollo de software.
 
-The collection includes books and educational resources covering
-different areas of software development.
-
-| Category | Description |
+| Categoría | Contenido |
 |:---|:---|
-| 💻 Programming | Programming languages, syntax, and practical examples |
-| ☕ Java Development | Java fundamentals and object-oriented programming |
-| 🗄️ Databases | Database concepts, SQL, and database management systems |
-| 🍃 MongoDB | NoSQL databases and document-oriented data storage |
-| 🏗️ Software Engineering | Programming principles, software design, and architecture |
-| 🧠 Computer Science | Algorithms, data structures, and computational thinking |
-| 🔧 Development Tools | Technical guides and resources for developers |
+| 💻 Programación | Lenguajes de programación, fundamentos y ejemplos prácticos |
+| ☕ Java | Programación orientada a objetos y desarrollo con Java |
+| 🌐 Desarrollo web | Tecnologías frontend y backend |
+| 🗄️ Bases de datos | SQL, modelado de datos y sistemas gestores de bases de datos |
+| 🍃 MongoDB | Bases de datos NoSQL y almacenamiento de documentos |
+| 🧠 Ciencias de la computación | Algoritmos, estructuras de datos y lógica computacional |
+| 🏗️ Ingeniería de software | Arquitectura, diseño de software y buenas prácticas |
+| 🔧 Herramientas de desarrollo | Documentación técnica y recursos para programadores |
 
-*The categories above describe the areas of interest of the library.
-The available books may change as the collection grows.*
+*Las categorías representan las áreas de interés de la biblioteca.
+El contenido disponible puede ampliarse con el tiempo.*
 
 ---
 
-## 🚀 Access the Library
+## 🚀 Accede a la biblioteca
 
-The complete collection is hosted on MEGA.
-
-### 📂 Browse and Download Books
+Los libros están organizados en carpetas alojadas en MEGA.
 
 <div align="center">
 
+### 📂 Explora la colección de libros
+
 <a href="https://mega.nz/folder/90MkVAZZ#0AAe5QxHOwqxBfNGB6q0nw">
-  <img src="https://img.shields.io/badge/MEGA-Access%20the%20Collection-D9272E?style=for-the-badge&logo=mega&logoColor=white" alt="Access the MEGA collection">
+  <img src="https://img.shields.io/badge/MEGA-Abrir%20biblioteca-D9272E?style=for-the-badge&logo=mega&logoColor=white" alt="Abrir biblioteca en MEGA">
 </a>
 
 <br><br>
 
-**Explore the collection, find a book, and keep learning.**
+**Encuentra un libro, descubre nuevas ideas y continúa aprendiendo.**
 
 </div>
 
-The collection is organized into folders to make it easier to browse
-different subjects and discover relevant learning materials.
+### ¿Cómo utilizar la biblioteca?
 
-1. Open the MEGA library.
-2. Browse the available folders and books.
-3. Select the resource you want to explore.
-4. Download the PDF when available.
-
----
-
-## 🎯 Project Goals
-
-- 📚 Collect useful programming books and technical resources.
-- 🌱 Support continuous learning in software development.
-- 💻 Explore different programming languages and technologies.
-- 🗄️ Encourage learning about databases and data management.
-- 🧠 Strengthen computer science fundamentals.
-- 🌍 Make educational resources easier to discover.
+1. Accede a la carpeta de MEGA mediante el enlace.
+2. Explora las carpetas y los libros disponibles.
+3. Selecciona el recurso que te interese.
+4. Consulta o descarga el archivo PDF cuando esté disponible.
 
 ---
 
-## 👨‍💻 Who Is This For?
+## 🎯 Objetivos del proyecto
 
-This library may be useful for:
-
-- Students learning programming and computer science.
-- Beginners looking for additional learning resources.
-- Backend developers exploring databases and server-side technologies.
-- Software engineering students studying design and architecture.
-- Developers interested in learning new programming languages.
-- Anyone who enjoys exploring technical books and documentation.
-
----
-
-## ⚖️ Copyright & Responsible Use
-
-This project aims to help people discover programming books and
-educational resources available online.
-
-**Free access does not necessarily mean that a book is in the public
-domain or that it may be redistributed without permission.**
-
-Please respect the copyright and licensing terms of each resource.
-
-- Prefer official publisher pages, author websites, and legally free editions.
-- Respect the licenses and distribution conditions associated with each book.
-- If you are a copyright holder and believe a resource has been shared
-  without authorization, please contact the repository owner so the
-  matter can be reviewed.
-
-This project does not claim ownership of third-party books or materials.
+- 📚 Reunir libros y recursos educativos sobre programación.
+- 🌱 Facilitar el aprendizaje continuo de nuevas tecnologías.
+- 💻 Explorar diferentes lenguajes de programación.
+- 🗄️ Profundizar en bases de datos y gestión de información.
+- 🧠 Fortalecer los fundamentos de las ciencias de la computación.
+- 🏗️ Aprender sobre arquitectura, diseño y buenas prácticas de software.
+- 🌍 Facilitar el descubrimiento de recursos educativos a la comunidad.
 
 ---
 
-## 🌱 Keep Learning
+## 👨‍💻 ¿A quién está dirigida esta biblioteca?
 
-Software development is a continuous learning process.
+Este proyecto puede ser útil para:
 
-Every book can introduce a new concept, every concept can inspire a
-project, and every project can help turn knowledge into experience.
+- Estudiantes de programación e ingeniería de software.
+- Personas que desean aprender a programar desde cero.
+- Desarrolladores backend interesados en bases de datos y tecnologías de servidor.
+- Programadores que desean conocer nuevos lenguajes.
+- Estudiantes que buscan complementar sus cursos y estudios.
+- Cualquier persona curiosa que disfrute aprendiendo sobre tecnología.
 
-**Read. Practice. Experiment. Build. Repeat.**
+No importa en qué etapa te encuentres: siempre hay algo nuevo por aprender.
+
+---
+
+## ⚖️ Derechos de autor y uso responsable
+
+Esta biblioteca tiene como objetivo facilitar el descubrimiento de
+libros y materiales educativos disponibles en internet.
+
+**Que un libro sea gratuito no significa necesariamente que sea de
+dominio público o que esté autorizado para su redistribución.**
+
+Por ello, es importante respetar los derechos de autor y las condiciones
+de distribución de cada recurso.
+
+- Prioriza las ediciones gratuitas publicadas por autores y editoriales.
+- Consulta las licencias y condiciones de uso de cada material.
+- No redistribuyas obras protegidas sin la autorización correspondiente.
+- Si eres titular de los derechos de una obra y consideras que algún
+  recurso se comparte sin autorización, puedes contactar al responsable
+  del repositorio para solicitar su revisión.
+
+Este proyecto no reclama la autoría de libros ni de materiales
+pertenecientes a terceros.
+
+---
+
+## 🌱 El aprendizaje nunca termina
+
+Aprender programación es un proceso continuo.
+
+Un libro puede enseñarte un concepto, ese concepto puede inspirarte
+a desarrollar un proyecto y ese proyecto puede ayudarte a convertir
+el conocimiento en experiencia.
+
+No se trata solamente de leer código, sino de comprenderlo,
+experimentar con él y descubrir nuevas formas de resolver problemas.
 
 <div align="center">
 
-### 📚 Knowledge grows when we keep learning.
+### 📚 Cada página puede ser el comienzo de algo nuevo.
 
-**Happy Coding!** 💻
+**Lee. Aprende. Practica. Construye.**
 
 <br>
 
 <a href="https://mega.nz/folder/90MkVAZZ#0AAe5QxHOwqxBfNGB6q0nw">
-  <img src="https://img.shields.io/badge/Start%20Exploring-Your%20Next%20Book-00A884?style=for-the-badge&logo=mega&logoColor=white" alt="Start exploring">
+  <img src="https://img.shields.io/badge/COMENZAR-A%20explorar%20la%20biblioteca-00A884?style=for-the-badge&logo=mega&logoColor=white" alt="Comenzar a explorar">
 </a>
+
+<br><br>
+
+*El conocimiento crece cuando lo compartimos.*
 
 </div>
